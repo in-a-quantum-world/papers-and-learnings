@@ -25,7 +25,6 @@ So I decided to keep a structured archive of every (or rather, most) paper, arti
 | [Neural Computing](neural-computing/) | 2 | Biological/neural computing: Cortical Labs and researchers in the space. |
 | [Founder Blog](founder-blog/) | 1 | How I love hearing the stories of those who took leaps of faith! These are blogs to serve multiple purposes: ambition, unfiltered (as with many founders) and such an intricate tale to success. |
 | [Investments, Finance](investments-finance/) | 1 | Investing and finance tools. |
-| [Quantum Computing for Finance](quantum-finance/) | 1 | Sort of a strange section, I prefer to think of this as an exploratory topic with a large amount of uncertainty and, currently as it stands, distrust. |
 | [Startups, YC](startups-yc/) | 1 | Undoubtedly, it crosses my mind: Startup ecosystem and accelerators  |
 | [Unsorted](unsorted/) | 28 | A little bit of a mess, perhaps the most accurate replica of my state of mind. |
 
