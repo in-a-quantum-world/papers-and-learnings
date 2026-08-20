@@ -1,15 +1,13 @@
-# 📚 Papers & Learnings
+# Research, papers, findings and exploration!
 
-*If it isn't evident enough from my bio and projects, I certainly have a wide range of interests!"*
+*If it isn't evident enough from my bio and projects, I certainly have a wide range of interests, and I am forever exploring new ones!*
 
 I work at the intersection of Mathematics, physical AI, and quantitative systems. Currently, my interests include (but are not limited to): Quantum Computing, Deep Learning, Computer Vision, Quantitative Research, sim-to-real robotics, Physical AI, research and eval with robotics simulation software (DeepMind’s MuJoCo, NVIDIA’s Isaac Sim).
-
 
 So I decided to keep a structured archive of every (or rather, most) paper, article, and resource I've read and saved. This was initially exported from my [Raindrop.io](https://raindrop.io) collections, and is preserved here with original save-dates, tags, notes, and (where available) the full PDFs. I also have access to videos and playlists for many of these topics!
 
 Each collection folder contains a `README.md` listing every item with the date I saved it, my tags and notes, plus a **Learnings** section where I distill my takewawys and key learnings from the media I ingested, in a format replicating that of how I have processed this information.
 
-**95 items · 20 collections · exported 2026-08-12**
 
 ## Collections
 
