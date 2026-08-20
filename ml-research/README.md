@@ -2,7 +2,7 @@
 
 > Foundational ML research: scaling laws, flow matching, PINNs, AlphaGeometry, quantization.
 
-*7 items · saved between 2026-04-01 and 2026-06-03 · from my [Raindrop.io](https://raindrop.io) collection*
+*8 items · saved between 2026-04-01 and 2026-06-03 · from my [Raindrop.io](https://raindrop.io) collection*
 
 ## Contents
 
@@ -49,6 +49,12 @@
 
 - **Saved:** 2026-06-03 · **Tags:** `ML` `Robotics`
 - **Excerpt:** Flow matching (FM) is a new generative modelling paradigm which is rapidly gaining popularity in the deep learning community. Flow matching combines aspects ...
+
+### [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+
+- **Saved:** 2026-08-19 · **Tags:** `Transformers` `NLP`
+- **PDF:** [`pdfs/attention-is-all-you-need.pdf`](pdfs/attention-is-all-you-need.pdf)
+- **My note:** The original transformer paper.
 
 ---
 
