@@ -38,3 +38,28 @@ Each collection folder contains a `README.md` listing every item with the date I
 - Source of truth: my Raindrop.io account (raw export in [`tools/`](tools/)).
 - Paper PDFs are auto-downloaded by a [GitHub Actions workflow](.github/workflows/fetch-pdfs.yml) from a [manifest](tools/pdf-manifest.csv) of open-access sources (arXiv, PMLR, PLOS, …), so the papers are preserved even if links rot.
 - Paywalled items (IEEE, ResearchGate) are kept as links only.
+
+## Adding new items
+
+Day-to-day, add a paper with the helper script (it writes the entry in the
+standard format and, if given a PDF URL, queues it for auto-download):
+
+```bash
+python3 tools/add.py --list          # see collection names
+
+python3 tools/add.py ml-research \
+    --title "Attention Is All You Need" \
+    --url   "https://arxiv.org/abs/1706.03762" \
+    --tags  "Transformers,NLP" \
+    --note  "The original transformer paper." \
+    --pdf-url "https://arxiv.org/pdf/1706.03762"   # optional; open-access only
+
+git add -A
+git commit -m "Add: Attention Is All You Need"
+git push
+```
+
+On push, the workflow downloads any newly-queued PDFs and commits them. To
+record takeaways, edit the **📝 Learnings** section at the bottom of any
+collection's `README.md` directly. For a brand-new topic, create a folder with
+its own `README.md` and add a row to the Collections table above.
