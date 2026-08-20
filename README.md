@@ -6,8 +6,6 @@ I work at the intersection of Mathematics, physical AI, and quantitative systems
 
 So I decided to keep a structured archive of every (or rather, most) paper, article, and resource I've read and saved. This was initially exported from my [Raindrop.io](https://raindrop.io) collections, and is preserved here with original save-dates, tags, notes, and (where available) the full PDFs. I also have access to videos and playlists for many of these topics!
 
-Each collection folder contains a `README.md` listing every item with the date I saved it, my tags and notes, plus a **Learnings** section where I distill my takewawys and key learnings from the media I ingested, in a format replicating that of how I have processed this information.
-
 
 ## Collections
 
