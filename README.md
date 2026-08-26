@@ -12,6 +12,7 @@ So I decided to keep a structured archive of every (or rather, most) paper, arti
 | Collection | Items | Focus |
 |---|---|---|
 | [defenseTech](defense-tech/) | 11 | Autonomous soaring, drone flight control, and the defense-tech landscape (PX4, Skynode, AI-enabled warfare analysis). |
+| [AI Safety](ai-safety/) | 7 | Security, evaluation integrity, and memory governance in LLM agents — reference papers for my research project — plus alignment/faithfulness work from Anthropic. |
 | [ML Research](ml-research/) | 7 | Foundational ML research: scaling laws, flow matching, PINNs, AlphaGeometry, quantization. |
 | [intrinsic](intrinsic/) | 6 | Robot manipulation and imitation learning: diffusion policies, behavioural cloning, ALOHA/ACT, MimicGen, RL with human-in-the-loop. |
 | [Quantum Computing](quantum-computing/) | 6 | I love a field that lies on the intersection of Physics, Mathematics and CS, so quantum is a non-negotiable from ym vantage point. Although not at the current forefront or perceived frontier, it is worth keeping an eye on this field for ongoing developments, especially for a whollistic understanding of the current tech acceleration scene. |
@@ -20,6 +21,7 @@ So I decided to keep a structured archive of every (or rather, most) paper, arti
 | [MuJoCo LabelBox](mujoco-labelbox/) | 4 | For my internship! I am looking at soft/continuum robot modelling and control: PDE control, neural ODEs, Lie algebraic methods, many of these topics recommended by the project leads. |
 | [Neurotech](neurotech/) | 4 | This is a testament to my neurotech phase which, albeit short-lived, was enlightening in the uncontrived inspirations from biology applied to computation, and vice versa. Brain emulation, EEG-to-text, neural emulators. |
 | [AGI](agi/) | 2 | AGI alignment and futures! As an Aschenbrenner enthusiast, this of course includes Situational Awareness. |
+| [AI Hardware](ai-hardware/) | 2 | Chips and inference infrastructure: Etched (frontier inference clusters; $700M Jane Street-led round at a $21B valuation, SK Hynix backing). |
 | [AI News](ai-news/) | 2 | Notable AI news and reports, since it is so easy to fall behind on this daily acceleration. |
 | [Deep Learning](deep-learning/) | 2 | After attending Jensen Huang's speech at YC's startup school I decided to reconnect with a love for proper, textbook reading, and this is my attestation to that promise! Deep learning textbooks (Goodfellow et al., Prince)|
 | [Neural Computing](neural-computing/) | 2 | Biological/neural computing: Cortical Labs and researchers in the space. |

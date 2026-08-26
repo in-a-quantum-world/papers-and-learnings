@@ -12,7 +12,7 @@ import urllib.request
 
 MANIFEST = os.path.join(os.path.dirname(__file__), "pdf-manifest.csv")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-UA = "papers-and-learnings-archiver/1.0 (personal research archive; +https://github.com/in-a-quantum-world/papers-and-learnings)"
+UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
 
 def fetch(url: str) -> bytes:
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/pdf,*/*"})

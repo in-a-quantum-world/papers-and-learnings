@@ -16,7 +16,7 @@ mujoco-labelbox/pdfs/modular-lie-algebraic-pde-control-of-multibody-flexible.pdf
 mujoco-labelbox/pdfs/knowledge-based-neural-ordinary-differential-equations-for.pdf,https://arxiv.org/pdf/2408.07776
 neurotech/pdfs/a-theory-of-neural-emulators.pdf,https://arxiv.org/pdf/2405.13394
 neurotech/pdfs/are-eeg-to-text-models-working.pdf,https://arxiv.org/pdf/2405.06459
-agi/pdfs/position-intent-aligned-ai-systems-must-optimize-for-agency.pdf,https://proceedings.mlr.press/v235/mitelut24a/mitelut24a.pdf
+agi/pdfs/position-intent-aligned-ai-systems-must-optimize-for-agency.pdf,https://raw.githubusercontent.com/mlresearch/v235/main/assets/mitelut24a/mitelut24a.pdf
 unsorted/pdfs/demostart-demonstration-led-auto-curriculum-applied-to.pdf,https://arxiv.org/pdf/2409.06613
 unsorted/pdfs/aloha-unleashed.pdf,https://aloha-unleashed.github.io/assets/aloha_unleashed.pdf
 unsorted/pdfs/paper-page-solving-physics-olympiad-via-reinforcement.pdf,https://arxiv.org/pdf/2604.11805
@@ -27,3 +27,4 @@ unsorted/pdfs/continuous-monitoring-and-machine-vision-reveals-that.pdf,https://
 unsorted/pdfs/the-geometry-of-projection-heads-conditioning-invariance.pdf,https://arxiv.org/pdf/2605.17180
 unsorted/pdfs/quantum-cinema-an-interactive-cinematic-exploration-of.pdf,https://arxiv.org/pdf/2606.17102
 ml-research/pdfs/attention-is-all-you-need.pdf,https://arxiv.org/pdf/1706.03762
+ai-safety/reasoning-models-dont-always-say-what-they-think.pdf,https://arxiv.org/pdf/2505.05410
