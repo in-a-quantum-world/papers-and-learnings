@@ -28,7 +28,7 @@ So I decided to keep a structured archive of every (or rather, most) paper, arti
 | [Founder Blog](founder-blog/) | 1 | How I love hearing the stories of those who took leaps of faith! These are blogs to serve multiple purposes: ambition, unfiltered (as with many founders) and such an intricate tale to success. |
 | [Investments, Finance](investments-finance/) | 1 | Investing and finance tools. |
 | [Startups, YC](startups-yc/) | 1 | Undoubtedly, it crosses my mind: Startup ecosystem and accelerators  |
-| [Unsorted](unsorted/) | 28 | A little bit of a mess, perhaps the most accurate replica of my state of mind. |
+| [Unsorted](unsorted/) | 30 | A little bit of a mess, perhaps the most accurate replica of my state of mind. |
 
 This collection is ever growing! If you have any recommendations, I'd love to see them :) send me the link!
 record takeaways, edit the **📝 Learnings** section at the bottom of any

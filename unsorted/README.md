@@ -2,7 +2,7 @@
 
 > Everything not yet filed into a collection — papers, challenges, applications, and reading.
 
-*28 items · saved between 2026-04-01 and 2026-07-21 · from my [Raindrop.io](https://raindrop.io) collection*
+*30 items · saved between 2026-04-01 and 2026-08-28 · from my [Raindrop.io](https://raindrop.io) collection*
 
 ## Contents
 
@@ -146,6 +146,16 @@
 ### [Home - UKD Fund](https://ukdynamism.fund/)
 
 - **Saved:** 2026-07-21
+
+### [Sundeep Teki — AI Career Advice](https://www.sundeepteki.org/advice)
+
+- **Saved:** 2026-08-28 · **Tags:** `career` `AI research`
+- **Excerpt:** Career advice from Sundeep Teki (ex-Oxford/UCL neuroscience, Amazon Alexa AI) on breaking into and growing in AI/ML — research careers, interviews, and mentorship.
+
+### [Google Summer of Code 2026 — Projects](https://summerofcode.withgoogle.com/programs/2026/projects)
+
+- **Saved:** 2026-08-28 · **Tags:** `open source` `GSoC` `opportunities`
+- **Excerpt:** Browse the accepted GSoC 2026 projects and organizations — useful for scouting open-source orgs and project ideas to contribute to or apply for.
 
 ---
 
