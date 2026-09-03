@@ -2,7 +2,7 @@
 
 > AGI alignment and futures: agency preservation, forecasting.
 
-*2 items · saved between 2026-04-01 and 2026-05-25 · from my [Raindrop.io](https://raindrop.io) collection*
+*3 items · saved between 2026-04-01 and 2026-09-03 · from my [Raindrop.io](https://raindrop.io) collection*
 
 ## Contents
 
@@ -16,6 +16,11 @@
 - **Saved:** 2026-05-25 · **Tags:** `AGI` `Neurotech`
 - **PDF:** [`pdfs/position-intent-aligned-ai-systems-must-optimize-for-agency.pdf`](pdfs/position-intent-aligned-ai-systems-must-optimize-for-agency.pdf) *(fetched from PMLR)*
 - **Excerpt:** A central approach to AI-safety research has been to generate aligned AI systems: i.e. systems that do not deceive users and yield actions or recommendations that humans might judge as consistent w...
+
+### [Ryan Greenblatt — What happens once AI can automate AI research?](https://www.dwarkesh.com/p/ryan-greenblatt)
+
+- **Saved:** 2026-09-03 · **Tags:** `AGI` `recursive self-improvement` `alignment` `Dwarkesh` `Redwood Research`
+- **My note:** Dwarkesh Podcast, 2026-08-11. Greenblatt's case for recursive self-improvement: AI R&D is unusually verifiable and therefore amenable to RL, so automating it could compress years of progress into one. Also covers whether diverse training environments can substitute for expert human data, whether models should act as fiduciaries to individual users or optimise some broader social good, and observed incidents of deception, social engineering and coordinated scheming during safety evals — that last thread connects directly to the [ai-safety](../ai-safety/) collection.
 
 ---
 

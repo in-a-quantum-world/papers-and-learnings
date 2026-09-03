@@ -20,14 +20,15 @@ So I decided to keep a structured archive of every (or rather, most) paper, arti
 | [Robotics, simulations](robotics-simulations/) | 5 | Physical AI, simulation (Isaac Sim), humanoids, and robotics challenges. |
 | [MuJoCo LabelBox](mujoco-labelbox/) | 4 | For my internship! I am looking at soft/continuum robot modelling and control: PDE control, neural ODEs, Lie algebraic methods, many of these topics recommended by the project leads. |
 | [Neurotech](neurotech/) | 4 | This is a testament to my neurotech phase which, albeit short-lived, was enlightening in the uncontrived inspirations from biology applied to computation, and vice versa. Brain emulation, EEG-to-text, neural emulators. |
-| [AGI](agi/) | 2 | AGI alignment and futures! As an Aschenbrenner enthusiast, this of course includes Situational Awareness. |
-| [AI Hardware](ai-hardware/) | 2 | Chips and inference infrastructure: Etched (frontier inference clusters; $700M Jane Street-led round at a $21B valuation, SK Hynix backing). |
-| [AI News](ai-news/) | 2 | Notable AI news and reports, since it is so easy to fall behind on this daily acceleration. |
+| [AI Hardware](ai-hardware/) | 4 | Chips, compute economics and inference infrastructure: Etched (frontier inference clusters; $700M Jane Street-led round at a $21B valuation, SK Hynix backing), Dylan Patel on the NVIDIA/Intel/Huawei chip race, and Dwarkesh's case for compute getting *more* expensive. |
+| [AI News](ai-news/) | 4 | Notable AI news and reports, since it is so easy to fall behind on this daily acceleration. Latent Space on GPT-6 Astra and NVIDIA's $13B HuggingFace acquisition. |
+| [AGI](agi/) | 3 | AGI alignment and futures! As an Aschenbrenner enthusiast, this of course includes Situational Awareness — plus Dwarkesh × Ryan Greenblatt on what happens once AI can automate AI research. |
 | [Deep Learning](deep-learning/) | 2 | After attending Jensen Huang's speech at YC's startup school I decided to reconnect with a love for proper, textbook reading, and this is my attestation to that promise! Deep learning textbooks (Goodfellow et al., Prince)|
 | [Neural Computing](neural-computing/) | 2 | Biological/neural computing: Cortical Labs and researchers in the space. |
 | [Founder Blog](founder-blog/) | 1 | How I love hearing the stories of those who took leaps of faith! These are blogs to serve multiple purposes: ambition, unfiltered (as with many founders) and such an intricate tale to success. |
 | [Investments, Finance](investments-finance/) | 1 | Investing and finance tools. |
 | [Startups, YC](startups-yc/) | 1 | Undoubtedly, it crosses my mind: Startup ecosystem and accelerators  |
+| [Essays, Philosophy](essays-philosophy/) | 1 | The non-technical shelf: power, ambition, agency and how to live. Not everything worth reading is about compute. |
 | [Unsorted](unsorted/) | 30 | A little bit of a mess, perhaps the most accurate replica of my state of mind. |
 
 This collection is ever growing! If you have any recommendations, I'd love to see them :) send me the link!
