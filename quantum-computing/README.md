@@ -1,7 +1,6 @@
 # Quantum Computing
 
-> Quantum computing platforms, photonics (Quandela), and the state of the field.
-
+> Honouring my interest in quantum computing despite what others are saying about the state of the field.
 *6 items · saved between 2026-04-01 and 2026-04-19 · from my [Raindrop.io](https://raindrop.io) collection*
 
 ## Contents
