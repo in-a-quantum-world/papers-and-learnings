@@ -1,7 +1,7 @@
 # PDF fetch report
 
-- downloaded: 1
-- already present: 27
+- downloaded: 0
+- already present: 28
 - failed: 1
 
 ## Failures
