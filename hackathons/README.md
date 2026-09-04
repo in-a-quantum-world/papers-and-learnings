@@ -2,7 +2,7 @@
 
 > Hackathons and competitions.
 
-*1 item · saved between 2026-04-02 and 2026-04-02 · from my [Raindrop.io](https://raindrop.io) collection*
+*1 item from my [Raindrop.io](https://raindrop.io) collection*
 
 ## Contents
 
@@ -17,8 +17,4 @@
 
 ---
 
-## 📝 Learnings
-
-<!-- Add your takeaways from this collection here: key ideas, connections between papers, what changed your thinking. -->
-
-*(to be written)*
+I'm not doing meaningless hackathons anymore! :)
