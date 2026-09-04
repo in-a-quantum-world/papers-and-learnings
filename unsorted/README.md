@@ -1,6 +1,6 @@
 # Unsorted
 
-> Everything not yet filed into a collection — papers, challenges, applications, and reading.
+> Lots of unsorted pieces here.
 
 *30 items · saved between 2026-04-01 and 2026-08-28 · from my [Raindrop.io](https://raindrop.io) collection*
 
@@ -159,8 +159,3 @@
 
 ---
 
-## 📝 Learnings
-
-<!-- Add your takeaways from this collection here: key ideas, connections between papers, what changed your thinking. -->
-
-*(to be written)*
