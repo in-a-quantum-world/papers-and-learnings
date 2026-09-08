@@ -2,7 +2,7 @@
 
 *If it isn't evident enough from my bio and projects, I certainly have a wide range of interests, and I am forever exploring new ones!*
 
-I work at the intersection of Mathematics, physical AI, and quantitative systems. Currently, my interests include (but are not limited to): Quantum Computing, Deep Learning, Computer Vision, Quantitative Research, sim-to-real robotics, Physical AI, research and eval with robotics simulation software (DeepMind’s MuJoCo, NVIDIA’s Isaac Sim).
+These are just a few topics I am interested in: Mathematics, Physical AI, AI Alignment and Quantitative Research. Currently, my interests include (but are not limited to): Deep Learning, Computer Vision, Computational Fluid Dynamics (in the context of drones), sim-to-real robotics, Physical AI, research and eval with robotics simulation software (DeepMind’s MuJoCo, NVIDIA’s Isaac Sim), and Mechanistic Interpretability. It is truly difficult to limit myself!
 
 So I decided to keep a structured archive of every (or rather, most) paper, article, and resource I've read and saved. This was initially exported from my [Raindrop.io](https://raindrop.io) collections, and is preserved here with original save-dates, tags, notes, and (where available) the full PDFs. I also have access to videos and playlists for many of these topics!
 
@@ -32,7 +32,4 @@ So I decided to keep a structured archive of every (or rather, most) paper, arti
 | [Essays, Philosophy](essays-philosophy/) | 1 | The non-technical shelf: power, ambition, agency and how to live. Not everything worth reading is about compute. |
 | [Unsorted](unsorted/) | 30 | A little bit of a mess, perhaps the most accurate replica of my state of mind. |
 
-This collection is ever growing! If you have any recommendations, I'd love to see them :) send me the link!
-record takeaways, edit the **📝 Learnings** section at the bottom of any
-collection's `README.md` directly. For a brand-new topic, create a folder with
-its own `README.md` and add a row to the Collections table above.
+This collection is ever growing! If you have any recommendations, I'd love to see them :) send me the link via my email!
