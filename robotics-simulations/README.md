@@ -2,7 +2,6 @@
 
 > Physical AI, simulation (Isaac Sim), humanoids, and robotics challenges.
 
-*5 items · saved between 2026-04-01 and 2026-04-08 · from my [Raindrop.io](https://raindrop.io) collection*
 
 ## Contents
 
@@ -35,10 +34,3 @@
   
   inspired by: https://github.com/KellerJordan/modded-nanogpt
 
----
-
-## 📝 Learnings
-
-<!-- Add your takeaways from this collection here: key ideas, connections between papers, what changed your thinking. -->
-
-*(to be written)*
