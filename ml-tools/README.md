@@ -2,7 +2,7 @@
 
 > Practical tools and platforms: Gymnasium, OpenCV, Palantir AIP, tutorials.
 
-*5 items · saved between 2026-04-01 and 2026-04-03 · from my [Raindrop.io](https://raindrop.io) collection*
+
 
 ## Contents
 
@@ -36,10 +36,4 @@
 - **Saved:** 2026-04-03
 - **Excerpt:** Learn contour detection using OpenCV. Not only the theory, we will also cover a complete hands-on coding in Python/C++ for a first hand, practical experience.
 
----
 
-## 📝 Learnings
-
-<!-- Add your takeaways from this collection here: key ideas, connections between papers, what changed your thinking. -->
-
-*(to be written)*
