@@ -2,8 +2,6 @@
 
 > Foundational ML research: scaling laws, flow matching, PINNs, AlphaGeometry, quantization.
 
-*8 items · saved between 2026-04-01 and 2026-06-03 · from my [Raindrop.io](https://raindrop.io) collection*
-
 ## Contents
 
 ### [Google's TurboQuant](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
@@ -56,10 +54,4 @@
 - **PDF:** [`pdfs/attention-is-all-you-need.pdf`](pdfs/attention-is-all-you-need.pdf)
 - **My note:** The original transformer paper.
 
----
 
-## 📝 Learnings
-
-<!-- Add your takeaways from this collection here: key ideas, connections between papers, what changed your thinking. -->
-
-*(to be written)*
