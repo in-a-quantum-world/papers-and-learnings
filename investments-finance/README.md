@@ -1,6 +1,6 @@
 # Investments, Finance
 
-> Investing and finance tools.
+> Money makes the world go round.
 
 
 ## Contents
@@ -10,5 +10,5 @@ Although I have created an entire section for this, I would like to point out th
 ### [Barebone - Your Team of AI Wall Street Analysts](https://barebone.ai/blog?fbclid=PARlRTSAQ5wxxleHRuA2FlbQIxMABzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAaefWGPZjmaCKYC6f6QU3CdHlpkjAVbxFLjaxns6Cz7MpDEvHuuxNMNtAL4S_Q_aem_lzosegdbeOrzTZtkEo_8gg)
 
 - **Saved:** 2026-04-01 · **Tags:** `Wall Street` `investment`
-- **My note:** Where to invest? 50 day guide on how to invest correctly
+- **My note:** 50 day guide (schooling) on how to invest correctly
 
