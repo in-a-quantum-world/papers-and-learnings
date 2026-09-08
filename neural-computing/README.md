@@ -2,7 +2,6 @@
 
 > Biological/neural computing: Cortical Labs and researchers in the space.
 
-*2 items · saved between 2026-04-01 and 2026-04-18 · from my [Raindrop.io](https://raindrop.io) collection*
 
 ## Contents
 
@@ -17,10 +16,3 @@
 
 - **Saved:** 2026-04-18 · **Tags:** `Neural Computing`
 
----
-
-## 📝 Learnings
-
-<!-- Add your takeaways from this collection here: key ideas, connections between papers, what changed your thinking. -->
-
-*(to be written)*
