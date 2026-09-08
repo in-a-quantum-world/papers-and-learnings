@@ -1,7 +1,7 @@
 # Quantum Computing
 
-> Honouring my interest in quantum computing despite what others are saying about the state of the field.
-*6 items · saved between 2026-04-01 and 2026-04-19 · from my [Raindrop.io](https://raindrop.io) collection*
+> Honouring my interest in quantum computing despite what others are saying about the state of the field. Although it is looking a little arid at the moment.
+
 
 ## Contents
 
@@ -56,10 +56,4 @@
 - **Saved:** 2026-04-19 · **Tags:** `cloud` `Quantum Computing`
 - **Excerpt:** Quandela, the European-based quantum computing provider, is announcing the release of its new version of its quantum computing cloud service, Quandela Cloud 2.0, providing end-users with the most powerful platform for developing photonic quantum applications
 
----
 
-## 📝 Learnings
-
-<!-- Add your takeaways from this collection here: key ideas, connections between papers, what changed your thinking. -->
-
-*(to be written)*
