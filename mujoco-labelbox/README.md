@@ -2,8 +2,6 @@
 
 > Soft/continuum robot modelling and control: PDE control, neural ODEs, Lie algebraic methods.
 
-*4 items · saved between 2026-07-19 and 2026-07-19 · from my [Raindrop.io](https://raindrop.io) collection*
-
 ## Contents
 
 ### [Estimating Dynamic Soft Continuum Robot States From Boundaries](https://arxiv.org/abs/2505.04491)
@@ -30,10 +28,3 @@
 - **PDF:** [`pdfs/knowledge-based-neural-ordinary-differential-equations-for.pdf`](pdfs/knowledge-based-neural-ordinary-differential-equations-for.pdf) *(fetched from arXiv)*
 - **Excerpt:** Soft robots have many advantages over rigid robots thanks to their compliant and passive nature. However, it is generally challenging to model the dynamics of soft robots due to their high spatial dimensionality, making it difficult to use model-based methods to accurately control soft robots. It of
 
----
-
-## 📝 Learnings
-
-<!-- Add your takeaways from this collection here: key ideas, connections between papers, what changed your thinking. -->
-
-*(to be written)*
