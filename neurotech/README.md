@@ -1,8 +1,7 @@
 # Neurotech
 
-> Brain emulation, EEG-to-text, neural emulators.
+> Brain emulation and neural emulators are particularly exciting
 
-*4 items · saved between 2026-05-23 and 2026-06-15 · from my [Raindrop.io](https://raindrop.io) collection*
 
 ## Contents
 
@@ -27,10 +26,3 @@
 - **PDF:** [`pdfs/are-eeg-to-text-models-working.pdf`](pdfs/are-eeg-to-text-models-working.pdf) *(fetched from arXiv)*
 - **Excerpt:** This work critically analyzes existing models for open-vocabulary EEG-to-Text translation. We identify a crucial limitation: previous studies often employed implicit teacher-forcing during evaluation, artificially inflating performance metrics. Additionally, they lacked a critical benchmark - compar
 
----
-
-## 📝 Learnings
-
-<!-- Add your takeaways from this collection here: key ideas, connections between papers, what changed your thinking. -->
-
-*(to be written)*
