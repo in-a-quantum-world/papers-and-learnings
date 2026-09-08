@@ -2,7 +2,7 @@
 
 > Robot manipulation and imitation learning: diffusion policies, behavioural cloning, ALOHA/ACT, MimicGen, RL with human-in-the-loop.
 
-*6 items · saved between 2026-07-13 and 2026-07-13 · from my [Raindrop.io](https://raindrop.io) collection*
+*An ongoing list since around May! This was my intro to Physical AI, and contact rich manipulation, which I am so grateful for!*
 
 ## Contents
 
@@ -27,7 +27,7 @@
 
 - **Saved:** 2026-07-13
 - **PDF:** [`pdfs/mimicgen-a-data-generation-system-for-scalable-robot.pdf`](pdfs/mimicgen-a-data-generation-system-for-scalable-robot.pdf) *(fetched from arXiv)*
-- **Excerpt:** Imitation learning from a large set of human demonstrations has proved to be an effective paradigm for building capable robot agents. However, the demonstrations can be extremely costly and time-consuming to collect. We introduce MimicGen, a system for automatically synthesizing large-scale, rich da
+- **Excerpt:** Imitation learning from a large set of human demonstrations has proved to be an effective paradigm for building capable robot agents. However, the demonstrations can be extremely costly and time-consuming to collect. We introduce MimicGen, a system for automatically synthesising large-scale, rich da
 
 ### [IndustReal: Transferring Contact-Rich Assembly Tasks from...](https://arxiv.org/abs/2305.17110)
 
@@ -39,12 +39,5 @@
 
 - **Saved:** 2026-07-13
 - **PDF:** [`pdfs/precise-and-dexterous-robotic-manipulation-via-human-in-the.pdf`](pdfs/precise-and-dexterous-robotic-manipulation-via-human-in-the.pdf) *(fetched from arXiv)*
-- **Excerpt:** Reinforcement learning (RL) holds great promise for enabling autonomous acquisition of complex robotic manipulation skills, but realizing this potential in real-world settings has been challenging. We present a human-in-the-loop vision-based RL system that demonstrates impressive performance on a di
+- **Excerpt:** Reinforcement learning (RL) holds great promise for enabling autonomous acquisition of complex robotic manipulation skills, but realising this potential in real-world settings has been challenging. We present a human-in-the-loop vision-based RL system that demonstrates impressive performance on a di
 
----
-
-## 📝 Learnings
-
-<!-- Add your takeaways from this collection here: key ideas, connections between papers, what changed your thinking. -->
-
-*(to be written)*
