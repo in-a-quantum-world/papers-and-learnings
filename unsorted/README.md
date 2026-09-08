@@ -2,7 +2,7 @@
 
 > Lots of unsorted pieces here.
 
-*30 items · saved between 2026-04-01 and 2026-08-28 · from my [Raindrop.io](https://raindrop.io) collection*
+*30 items *
 
 ## Contents
 
