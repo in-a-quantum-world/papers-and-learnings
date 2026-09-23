@@ -10,3 +10,6 @@
 - **Saved:** 2026-09-03 · **Tags:** `power` `ambition` `sociology` `essay` 
 - **My note:** Erin Meryl, 2026-08-17. Draws a sharp line between *ambition* (personal achievement), which society happily celebrates in women, and *power*, the ability to determine outcomes for other people, which it does not. Reads Weber, Bourdieu and de Beauvoir alongside Role Congruity Theory to argue that women are pushed to launder power-seeking through altruistic justification, and that female agency shouldn't have to be pre-approved by an account of how it will be exercised. This struck a hard chord, that is for sure.
 
+### https://www.lesswrong.com/
+
+- **My note:** Ok this is less of essays, more of research papers and discussing and evaluating such papers. Actually recommended to me by founder of Redwood Research, Buck Schlegeris. Who is an absolute legend, by the way. His website: https://www.shlegeris.com/
