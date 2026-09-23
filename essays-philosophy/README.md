@@ -1,4 +1,4 @@
-# Essays, Philosophy
+# Essays, Philosophy, Takes on Research
 
 > "Engaging with Mathematics and Computer Science allows you to solve highly theoretical problems, but engaging with literature and philosophy allows you to gain an appreciation for the future of the problems you solve. " -Me 
 
