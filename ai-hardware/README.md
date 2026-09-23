@@ -26,10 +26,9 @@
 - **Saved:** 2026-09-03 · **Tags:** `compute` `economics` `scaling` `Dwarkesh`
 - **My note:** Dwarkesh Patel, 2026-07-29. Argues compute prices rise rather than fall: labs have been 10x-ing revenue annually on only ~3x compute growth, and that gap can't keep coming out of margin. His anchor — a human-level SWE running on an H100 equivalent implies that H100 should rent for >$250k/year, ~15x current spot — with supply pinned by wafer allocation and fab capacity. Implication is a winner-take-most market where new entrants can't buy their way to the frontier.
 
----
+rom this collection here: key ideas, connections between papers, what changed your thinking. -->
 
-## 📝 Learnings
+### [Positron!] (https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html)
 
-<!-- Add your takeaways from this collection here: key ideas, connections between papers, what changed your thinking. -->
+An AI inference hardware company built to make serving AI models a lot cheaper and more energy efficient. Somehow already got $875M Series C. Deployed more than 50 racks of Atlas at Oracle. In fact their inference is already being utilised!
 
-*(to be written)*
